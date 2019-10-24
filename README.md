@@ -63,7 +63,7 @@ True | True | True | True | False
 
 ## Question 2
 
-![Question_2_Answers](https://i.imgur.com/YvaYtgY.png)
+![Question_2_Answers](https://i.imgur.com/oHA3PJ5.png)
 
 ## Question 3
 

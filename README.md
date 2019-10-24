@@ -146,9 +146,10 @@ True | True | True | True
 ## Question 4
 
 ### a
-
+If either, (./a.txt OR ./b.txt) does not exist then, print the message, (A required file is missing)
 ### b
-
+If X is of type int (Integer) or float (Real) and X is greater than 7 then, print (Hello.)
 ### c
-
+If X and Y are equal to 0 then, run method do something with no arguments.
 ### d
+If X is less than 10 or (X and Y are greater than 0) then, run method do something with no arguments.
